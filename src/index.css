@@ -31,6 +31,10 @@ body {
     text-align: center;
     width: 34px;
   }
+
+  .square-highlight {
+    background-color: palegoldenrod;
+  }
   
   .square:focus {
     outline: none;
